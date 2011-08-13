@@ -1,0 +1,13 @@
+{% if site.github_user %}
+<section>
+  <div id="github-badge"></div>
+  <script type="text/javascript" charset="utf-8">
+    GITHUB_USERNAME = "{{ site.github_user }}";
+    GITHUB_LIST_LENGTH = {{ site.github_list_length }};
+    GITHUB_HEAD = "div"; 
+    GITHUB_THEME = "{{ site.github_theme }}";
+    GITHUB_TITLE = "{{ site.github_title }}";
+  </script>
+  <script src="http://drnicjavascript.rubyforge.org/github_badge/dist/github-badge-launcher.js" type="text/javascript"></script>
+</section>
+{% endif %}
