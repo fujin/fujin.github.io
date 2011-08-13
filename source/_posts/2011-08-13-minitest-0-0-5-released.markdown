@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "minitest-0.0.5-released"
+title: MiniTest Cookbook 0.0.5 Released
 date: 2011-08-13 14:46
 comments: true
 categories: devops opschef lwrp minitest
