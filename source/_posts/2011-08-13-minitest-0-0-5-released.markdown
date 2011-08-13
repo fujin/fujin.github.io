@@ -13,7 +13,7 @@ test cases programmaticaly throughout the Chef run and have them
 executed by a dedicated test runner.
 
 I've also retained the ability to run via Vagrant, for ease of
-testing. The develop branch has some more recent enhancmenets, notably
+testing. The [develop branch](https://github.com/fujin/minitest-cookbook/tree/develop) has some more recent enhancements, notably
 an in-line Sinatra server which I'm building example test cases
 around.
 
