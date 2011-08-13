@@ -4,7 +4,7 @@
 
 url: http://junglist.gen.nz
 title: Junglist Generation
-subtitle: A blog about systems automation with Opscode\'s Chef
+subtitle: A blog about systems automation with Opscode's Chef
 author: AJ Christensen
 simple_search: http://google.com/search
 
@@ -47,8 +47,8 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious
 # ----------------------- #
 
 # Twitter
-twitter_user: fujin
-twitter_tweet_count: 4
+twitter_user: fujin_
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: true
