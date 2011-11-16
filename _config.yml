@@ -70,7 +70,7 @@ delicious_count: 3
 disqus_short_name: junglist
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-27052648-1
 
 # Github
 github_user: fujin
